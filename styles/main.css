@@ -19,7 +19,7 @@ body {
     padding-top: 20px;
     border-right: 2px;
     border-style: solid;
-    border-color: black;
+    border-color: red;
     margin-top: 100px;
 } /*From https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
 
@@ -36,4 +36,9 @@ p {
     margin-left: 180px;
     margin-right: 20px;
     font-size: 20px;
+}
+
+.list {
+    text-align: left;
+    margin-left: 550px;
 }
