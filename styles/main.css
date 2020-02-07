@@ -52,21 +52,12 @@ p {
     font-size: 20px;
 }
 
-.list-container{
-    display: flex;
-    background-color: rgb(81, 126, 231);
-    width: auto;
-    text-align: center;
-    margin-left: 300px;
-    margin-right: 300px;
-    border-style: solid;
-    border-color: red;
-    border-width: 5px;
-    border-radius: 3%;
-    font-size: 25px;
-}
-
 .red-border {
     border-style: solid;
     border-color: red;
 }
+
+.pic-float{
+    float: right;
+}
+
