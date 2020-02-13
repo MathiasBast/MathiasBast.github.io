@@ -76,3 +76,10 @@ p {
     border-radius: 3%;
     font-size: 25px;
 }
+
+.resize-pic{
+    height: 320px;
+    width: auto;
+    float: right;
+    margin: 10px 10px 10px 10px;
+}
