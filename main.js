@@ -1,4 +1,5 @@
 function playLaugh(){
-    var audio = new Audio('../sound/Baby laughing.mp3');
+    var audio = new Audio('../sound/Baby laughing.wav');
     audio.play();
 }
+
